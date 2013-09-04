@@ -2,7 +2,7 @@
 A simple, scalable SCSS mixin to give your web app rounded corners against the device's screen edges.
 
 ## Usage
-The mixin depends on 2 extra elements in your HTML markup. Inside your <body> tag, preferably just before the closing </body> tag, add the following div's:
+The mixin depends on 2 extra elements in your HTML markup. Inside your <code>body</code> tag, preferably just before the closing <code>/body</code> tag, add the following div's:
 
 	<div id="topCorners"></div>
 	<div id="bottomCorners"></div>
