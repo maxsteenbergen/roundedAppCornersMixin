@@ -1,6 +1,9 @@
 # Rounded App Corners — SCSS Mixin
 A simple, scalable SCSS mixin to give your web app rounded corners against the device's screen edges.
 
+## Live demo
+A live demo of the mixin in use can be found [here](http://maxsteenbergen.com/appscargot).
+
 ## Usage
 The mixin depends on 2 extra elements in your HTML markup. Inside your <code>body</code> tag, preferably just before the closing <code>/body</code> tag, add the following div's:
 
