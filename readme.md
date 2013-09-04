@@ -1,4 +1,4 @@
-# Rounded App Corners — SASS Mixin
+# Rounded App Corners — SCSS Mixin
 A simple, scalable SCSS mixin to give your web app rounded corners against the device's screen edges.
 
 ## Usage
